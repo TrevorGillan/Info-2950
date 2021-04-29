@@ -1,0 +1,50 @@
+INFO 2950 Project Work Contract
+Names/NetIDs: Trevor Gillan(tfg35)
+
+                                                            Work Plan
+----------------------------------------------------------------------------------------------------------------------------------
+Feb 14-20
+    1. Complete work plan
+    2. Brainstorm three ideas 
+    -Feb 17: Submit Phase 0
+Feb 21-27
+    1. Set up github repository
+    2. Research avenues for analyses
+    3. Consult TAs about possible ideas
+    -Feb 24: Submit Phase I
+Feb 28-Mar 6
+    1. Choose a dataset
+    2. Begin data collection and cleaning
+Mar 7-13
+    1. Compute relevant summary statistics
+    2. Prepare data desription, data limitations, and exploratory data analysis sections for phase II
+Mar 14-20
+    1. Finish question for reviewers section
+    2. Edit and put final touches on Phase II
+    -Mar 17: Submit Phase II
+Mar 21-27
+    1. Complete Phase II peer review 
+    -Mar 24: Submit Phase II peer review
+Mar 28-Apr 3
+    1. Brainstorm different analyses for final project
+    2. Choose one analyses for final
+Apr 4-10
+    1. Choose second analyses for final
+Apr 11-17
+    1. Finish questions for reviewer section
+    2. Prepare dataset for final report
+    3. Work on introduction, data description, preregistration statement, and source code sections for final report
+    -Apr 14: Submit Phase III
+Apr 18-24
+    1. Work on data analysis, evaluation of significance, interpretations, and conclusion sections for final report
+    2. Edit report and make final touches
+    -Apr 21: Submit Phase IV
+Apr 25-May 1
+    1. Complete Phase IV peer review
+    -Apr 28: Submit Phase IV peer review
+May 2-8
+    1. Consult TAs about changes that would improve report
+    2. Edit final report
+May 9-15
+    1. Make last changes and complete report
+    -May 12: Submit Phase V
